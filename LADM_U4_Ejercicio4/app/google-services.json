@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35950983809",
+    "project_id": "ladmu4p4",
+    "storage_bucket": "ladmu4p4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35950983809:android:6ad66ae08385f7953e6b80",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35950983809-pkii7b8eh2k6lrui8ia8molh41v4jqo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.tepic.ladm_u4_ejercicio4",
+            "certificate_hash": "2cf935b7fe96951e731f8fc7dfe2db5f35592f4b"
+          }
+        },
+        {
+          "client_id": "35950983809-m7f3v1ig1ut07ven531h87ijmitvvuj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjohRMUJKchXdDUPk0BI1jBLymf9whUD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35950983809-m7f3v1ig1ut07ven531h87ijmitvvuj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
